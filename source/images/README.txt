@@ -1,0 +1,1 @@
+This folder can contain images that are used by the library.

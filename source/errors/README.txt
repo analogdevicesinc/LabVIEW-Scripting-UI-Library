@@ -1,0 +1,1 @@
+This folder can contain any files that have information about errors.

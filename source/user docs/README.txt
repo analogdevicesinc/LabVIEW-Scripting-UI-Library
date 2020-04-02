@@ -1,0 +1,1 @@
+This folder can contain any documents of the library.

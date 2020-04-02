@@ -1,0 +1,1 @@
+This folder can contain any VIs/files that can be used for testing purposes. These VIs/files will not be included in the package.

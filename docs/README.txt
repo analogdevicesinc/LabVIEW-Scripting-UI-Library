@@ -1,0 +1,1 @@
+This folder can contain any design documents or documentation files.

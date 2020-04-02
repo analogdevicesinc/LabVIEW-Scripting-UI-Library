@@ -1,0 +1,1 @@
+This folder can contain any tests present in the library.
